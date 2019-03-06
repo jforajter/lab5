@@ -15,4 +15,5 @@ text-align: center;
 table{
 border: 10px white;
 background-color: PaleGreen;
+border-style: dashed;
 }
