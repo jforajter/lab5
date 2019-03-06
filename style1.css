@@ -7,3 +7,12 @@ font-family: 'Lobster', cursive, times;
 font-style: italic;
 color: white;
 }
+caption {
+font-family: Palatino, Times, Arial;
+color: white;
+text-align: center;
+}
+table{
+border: 10px white;
+background-color: PaleGreen;
+}
