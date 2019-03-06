@@ -16,6 +16,7 @@ table{
 border: 10px white;
 background-color: PaleGreen;
 border-style:2px solid white;
+border-radius: 10px;
 }
 th,td{
 border:2px solid white;
