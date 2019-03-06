@@ -13,9 +13,8 @@ color: black;
 text-align: center;
 }
 table{
-border: 10px white;
+border: 2px solid crimson;
 background-color: gray;
-border-style:2px solid white;
 border-radius: 10px;
 }
 th,td{
